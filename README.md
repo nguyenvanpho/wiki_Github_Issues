@@ -31,7 +31,7 @@ Mỗi vấn đề có thể có một người quản lý và được chọn th
 
 Bằng cách sử dụng **@mentions** và **references** trong các vấn đề, bạn có thể thông báo cho các thành viên và các teams, và các vấn đề liên quan với nhau. Chúng giúp bạn tìm đúng người liên quan để giải quyết các vấn đề hiệu quả, và dễ học và sử dụng. 
 
-###a. Notifications
+### a. Notifications
 
 Thông báo là cách để GitHub cập nhật các vấn đề của bạn.
 Có hai cách để nhận thông báo: qua email và qua web. Bạn có thể định cấu hình cách bạn nhận thông báo trong phần cài đặt của mình.
